@@ -1,0 +1,8 @@
+#this is a test
+*.pub
+/TODO
+*.[ao]
+
+
+#special words
+d
